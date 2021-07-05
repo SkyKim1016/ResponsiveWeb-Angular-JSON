@@ -3,6 +3,14 @@
 HackerNews REST API: https://github.com/HackerNews/API
 
 
+<img width="1678" alt="Screen Shot 2021-07-05 at 11 27 33 AM" src="https://user-images.githubusercontent.com/24449487/124503126-e57bed80-dd92-11eb-879d-d8793bb1e5e0.png">
+
+
+
+<img width="707" alt="Screen Shot 2021-07-05 at 11 28 06 AM" src="https://user-images.githubusercontent.com/24449487/124503135-e876de00-dd92-11eb-8d2a-d4941832c3ca.png">
+
+
+
 # Excutions
 
 1. Please clones this source : git clone https://github.com/SkyKim1016/Stradigi.AI-Angular-FrontTest.git
