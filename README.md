@@ -1,10 +1,9 @@
 # Responsive web application that fetching data from (https://news.ycombinator.com/)
 
-HackerNews REST API: https://github.com/HackerNews/API![image](https://user-images.githubusercontent.com/24449487/124502513-a305e100-dd91-11eb-817b-5e6b8dffac88.png)
-g)
+HackerNews REST API: https://github.com/HackerNews/API
 
 
-
+# Excutions
 
 1. Please clones this source by : git clone https://github.com/SkyKim1016/Stradigi.AI-Angular-FrontTest.git
 2. Please executions command about installing node moudles and dependencies  :  npm install --save-dev 
