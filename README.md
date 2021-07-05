@@ -1,6 +1,12 @@
-# Responsive web application that fetching data from (https://news.ycombinator.com/)
+# Responsive web angular application that fetching from Hacker News
 
-HackerNews REST API: https://github.com/HackerNews/API
+
+# Demonstration hosting server 
+
+# https://strsadigi.netlify.app
+   
+
+Original HackerNews URL https://news.ycombinator.com/ HackerNews REST API: https://github.com/HackerNews/API
 
 
 <img width="1678" alt="Screen Shot 2021-07-05 at 11 27 33 AM" src="https://user-images.githubusercontent.com/24449487/124503126-e57bed80-dd92-11eb-879d-d8793bb1e5e0.png">
@@ -21,9 +27,6 @@ HackerNews REST API: https://github.com/HackerNews/API
 
 
 
-# Demonstration hosting server 
-
-   https://strsadigi.netlify.app
 
 
 # Thanks a lot ! 
