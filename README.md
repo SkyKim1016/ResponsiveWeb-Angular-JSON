@@ -5,10 +5,10 @@ HackerNews REST API: https://github.com/HackerNews/API
 
 # Excutions
 
-1. Please clones this source by : git clone https://github.com/SkyKim1016/Stradigi.AI-Angular-FrontTest.git
+1. Please clones this source : git clone https://github.com/SkyKim1016/Stradigi.AI-Angular-FrontTest.git
 2. Please executions command about installing node moudles and dependencies  :  npm install --save-dev 
 3. Server executions command : ng serve --open
-4. Open web browser and input url : localhost:4200
+4. Opens web browser and inputs url : localhost:4200
 
 
 
