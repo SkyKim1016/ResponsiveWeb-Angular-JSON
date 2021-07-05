@@ -22,7 +22,7 @@ Original HackerNews URL https://news.ycombinator.com/ HackerNews REST API: https
 
 
 # Demonstration hosting server 
-  https://strsadigi.netlify.app
+  https://stradigi.netlify.app/
   
 
 # Thanks a lot ! 
