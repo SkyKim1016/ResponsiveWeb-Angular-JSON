@@ -1,5 +1,9 @@
 # Responsive web angular application that fetching from Hacker News
 
+# Demonstration hosting server 
+  https://strsadigi.netlify.app
+   
+
 Original HackerNews URL https://news.ycombinator.com/ HackerNews REST API: https://github.com/HackerNews/API
 
 
@@ -20,15 +24,9 @@ Original HackerNews URL https://news.ycombinator.com/ HackerNews REST API: https
 4. Opens web browser and inputs url : localhost:4200
 
 
-# Demonstration hosting server 
 
-# https://strsadigi.netlify.app
-   
 
 # Thanks a lot ! 
-
-
-
 
 
 
