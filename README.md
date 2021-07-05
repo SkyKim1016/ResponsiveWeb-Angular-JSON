@@ -1,3 +1,32 @@
+# Responsive web application that fetching data from (https://news.ycombinator.com/)
+
+HackerNews REST API: https://github.com/HackerNews/API![image](https://user-images.githubusercontent.com/24449487/124502513-a305e100-dd91-11eb-817b-5e6b8dffac88.png)
+g)
+
+
+
+
+1. Please clones this source by : git clone https://github.com/SkyKim1016/Stradigi.AI-Angular-FrontTest.git
+2. Please executions command about installing node moudles and dependencies  :  npm install --save-dev 
+3. Server executions command : ng serve --open
+4. Open web browser and input url : localhost:4200
+
+
+
+# Demonstration hosting server 
+
+   https://strsadigi.netlify.app
+
+
+# Thanks a lot ! 
+
+
+
+
+
+
+
+
 # AngularFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
