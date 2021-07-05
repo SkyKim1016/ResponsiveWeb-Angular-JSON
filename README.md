@@ -25,7 +25,7 @@ Original HackerNews URL https://news.ycombinator.com/ HackerNews REST API: https
    https://stradigi.netlify.app/
   
 
-# Responsive Stylesheet Path
+# Responsive stylesheet path
    Stradigi.AI-Angular-FrontTest/src/styles.scss 
 
 
